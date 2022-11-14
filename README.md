@@ -103,12 +103,12 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/oktorino">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/oktorino">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Tuah's github stats"/>
 </a>
 
 <br/>
