@@ -83,7 +83,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
   <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
+<a href="https://www.facebook.com/tuah.oktorino">
   <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
