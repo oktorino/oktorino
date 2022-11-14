@@ -104,11 +104,11 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 ### Github Activity ✔:
 
 <a href="https://github.com/oktorino">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktorino&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/oktorino">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Tuah's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oktorino&show_icons=true&theme=tokyonight&line_height=27" alt="Tuah's github stats"/>
 </a>
 
 <br/>
@@ -159,7 +159,7 @@ Text         9 mins          █░░░░░░░░░░░░░░░░
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/oktorino?tab=repositories)!
 
 </div>
 -----
